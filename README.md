@@ -1,2 +1,2 @@
-# tutorials
-Tutorials collection with setups, how to and others
+# Tutorials, 'How To', etc...
+WSL2 LAMPP SETUP: https://coisasdogeek.com.br/2024/02/19/como-instalar-o-lamp-no-debian/
